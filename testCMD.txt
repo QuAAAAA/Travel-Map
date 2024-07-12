@@ -1,0 +1,5 @@
+Huffman-Coding_Prog_S11059006 -c test.pgm
+Huffman-Coding_Prog_S11059006 -d test.pgm.hc tested.pgm
+
+Huffman-Coding_Prog_S11059006 -c test1.pgm
+Huffman-Coding_Prog_S11059006 -d test1.pgm.hc tested1.pgm
